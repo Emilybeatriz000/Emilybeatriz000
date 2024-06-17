@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá, Emily Beatriz aqui! 👨‍💻
 
-<!--
-**Emilybeatriz000/Emilybeatriz000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de desenvolvimento de Sistemas
+### 👀 Estou a procura de uma vaga no momento 👀
 
-Here are some ideas to get you started:
+## ⚡ Hard Skills
+- Desenvolvimento Android (Java e Kotlin)
+- Desenvolvimento BackEnd em Java (Springboot)
+- Arquiteturas MVC, MVP, MVVM
+- APis com Retrofit, Coroutines
+- Git e GitHub
+- Firebase, SQLite e SQL
+- Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Entre em contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-silva-a088b730b/)
